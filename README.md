@@ -2,7 +2,7 @@
 
 Atualmente estou:
 
-✔ Aprendendo Flutter através do projeto da Nubank / Cubos Academy /Alura
+✔ Aprendendo Flutter através do projeto da Nubank / Cubos Academy
 
 ✔ Cursando Sistemas da Informação na Unifacs
 
