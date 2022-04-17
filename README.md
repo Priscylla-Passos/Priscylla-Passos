@@ -1,6 +1,8 @@
 ### Olá! Sou Priscila Passos👋
 
-✔ Atualmente estou aprendendo Flutter através do projeto da Nubank / Cubos Academy /Alura
+Atualmente estou:
+
+✔ Aprendendo Flutter através do projeto da Nubank / Cubos Academy /Alura
 
 ✔ Cursando Sistemas da Informação na Unifacs
 
