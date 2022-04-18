@@ -4,7 +4,7 @@ Atualmente estou:
 
 ✔ Aprendendo Flutter através do projeto da Nubank / Cubos Academy
 
-✔ Cursando Sistemas da Informação na Unifacs
+✔ Acadêmica de Sistemas da Informação na Unifacs
 
 ✔ A procura de Estágio ou Emprego na área de desenvolvimento.
 
