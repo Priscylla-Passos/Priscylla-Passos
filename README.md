@@ -6,7 +6,7 @@ Atualmente estou:
 
 ✔ Cursando Sistemas da Informação na Unifacs
 
-✔ Procurando Estágio ou Emprego na área de desenvolvimento.
+✔ A procura de Estágio ou Emprego na área de desenvolvimento.
 
 
 <div align="center">
