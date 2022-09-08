@@ -3,9 +3,9 @@
 
 ✔ Acadêmica de Sistemas da Informação
 
-✔ Em curso de Flutter através do projeto da Nubank / Cubos Academy
+✔ Conclui curso de Flutter através do projeto da Nubank / Cubos Academy
 
-✔ A procura de Estágio ou Emprego na área de desenvolvimento.
+✔ Estágiando na Compass Uol
 
 
 
