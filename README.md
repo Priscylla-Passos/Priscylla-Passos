@@ -5,7 +5,7 @@
 
 ✔ Conclui curso de Flutter através do projeto da Nubank / Cubos Academy
 
-✔ Estagiando na Compass Uol
+✔ Estagiei na Compass Uol
 
 
 
